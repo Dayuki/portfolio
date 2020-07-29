@@ -1,0 +1,15 @@
+<xliff version="1.2">
+	<file original="" source-language="en-US" target-language="fr-FR">
+		<header></header>
+		<body>
+			<trans-unit id="1">
+				<source>TITLE</source>
+				<target>TITRE</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>PLAY</source>
+				<target>JOUER</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,13 @@
+{
+
+	"version":"0.1.0",
+	"cheat":false,
+	"fps":false,
+	"debug":false,
+	"colliderAlpha":0,
+	"rendererAlpha":1,
+	"langPath":"localization/",
+	"language":"",
+	"languages":["en","fr"],
+	"nPattern": 8
+}
